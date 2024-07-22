@@ -1,2 +1,2 @@
 # DTR
-https://dtrweather.streamlit.app/
+https://sushantsingh8153.streamlit.app/
